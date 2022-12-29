@@ -1,2 +1,2 @@
 # barabara-fonts
-barabara fonts hosting for devs
+DOT's official barabara fonts hosting for devs
